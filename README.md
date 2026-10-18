@@ -1,7 +1,7 @@
 # Nardos Sedjro Monel Houehou
-### Founder & Lead Developer at Haudoratech | Custom Business Software, Automation & AI Integration | Canada
+### Full-Stack Developer | Custom Business Software, Automation & AI Integration | Canada
 
-**Haudoratech** delivers IT solutions for small and mid-size businesses: custom web and mobile applications, business management systems, workflow automation and AI integration. I lead the work from analysis to deployment, in French and English.
+I deliver IT solutions for small and mid-size businesses: custom web and mobile applications, business management systems, workflow automation and AI integration. I lead the work from analysis to deployment, in French and English.
 
 **Solutions**
 - Business management systems (orders, reservations, inventory)
@@ -13,6 +13,6 @@
 
 **Selected work:** [Restau](https://github.com/nardos-sedjro-monel-houehou/Restau), a restaurant management system (orders, menu, reservations, stock tracking)
 
-**Contact:** [haudorastudios.com](https://haudorastudios.com) · [LinkedIn](https://www.linkedin.com/in/sedjro-nardos-monel-houehou-716a7213b)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/sedjro-nardos-monel-houehou-716a7213b)
 
-*Haudoratech : solutions informatiques sur mesure pour les entreprises. Applications web et mobiles, automatisation, intégration d'IA.*
+*Solutions informatiques sur mesure pour les entreprises : applications web et mobiles, automatisation, intégration d'IA.*
