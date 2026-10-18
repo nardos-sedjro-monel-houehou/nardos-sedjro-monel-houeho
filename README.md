@@ -1,24 +1,18 @@
-# HOUEHOU Sedjro Nardos Monel 
-### Tech Entrepreneur & Ingénieur Logiciel IA | Expert Solutions SaaS & Automatisation | Canada, QC
+# Nardos Sedjro Monel Houehou
+### Founder & Lead Developer at Haudoratech | Custom Business Software, Automation & AI Integration | Canada
 
-Bienvenue sur mon espace professionnel. Je suis un entrepreneur technologique et ingénieur logiciel spécialisé dans la conception d'applications web avancées (Next.js, React, TypeScript), l'intégration de modèles d'intelligence artificielle et l'automatisation des processus d'affaires. Fondateur de HaudoraTech, je développe des solutions logicielles innovantes visant à optimiser les infrastructures numériques des entreprises.
+**Haudoratech** delivers IT solutions for small and mid-size businesses: custom web and mobile applications, business management systems, workflow automation and AI integration. I lead the work from analysis to deployment, in French and English.
 
----
+**Solutions**
+- Business management systems (orders, reservations, inventory)
+- Custom web and mobile applications
+- REST APIs and system integrations
+- Automation and AI features (LLM chatbots, RAG)
 
-## 🤖 Domaines d'Expertise & Innovation
-* **Intelligence Artificielle & Automatisation :** Intégration de modèles de langage (LLM), développement d'agents intelligents, automatisation de workflows complexes et optimisation de systèmes SaaS.
-* **Architecture Logicielle & Full-Stack :** Conception d'applications web et de plateformes d'e-commerce hautement performantes, scalables et sécurisées.
-* **Analyse Fonctionnelle & Stratégie Tech :** Traduction de visions d'affaires en architectures logiques, modélisation de processus et pilotage de projets en mode Agile (Scrum).
+**Stack:** Next.js · React · TypeScript · Node.js · Laravel · PHP · Python · SQL · Git
 
-## 🛠️ Stack Technique & Écosystème
-* **Frameworks & Langages :** Next.js, React, TypeScript, JavaScript, Node.js, Python, SQL.
-* **Spécialités :** Développement SaaS, Web Apps personnalisées, Écosystèmes E-commerce, API REST/GraphQL.
-* **Outils & Gestion :** Git, JIRA, Confluence, Modélisation UML, Environnements Cloud.
-* **Projets Actuels :** Fondateur et Lead Dev chez HaudoraTech / Haudora Studios.
+**Selected work:** [Restau](https://github.com/nardos-sedjro-monel-houehou/Restau), a restaurant management system (orders, menu, reservations, stock tracking)
 
----
+**Contact:** [haudorastudios.com](https://haudorastudios.com) · [LinkedIn](https://www.linkedin.com/in/sedjro-nardos-monel-houehou-716a7213b)
 
-## 💡 Vision Entrepreneuriale
-Passionné par la convergence entre le génie logiciel et l'intelligence artificielle, mon objectif est de repousser les limites technologiques pour créer des produits numériques à forte valeur ajoutée. Mon parcours académique combiné à mon expérience terrain me permettent de livrer des solutions robustes alignées sur les plus hauts standards de l'industrie technologique canadienne.
-
-[🔗 Connectons-nous sur LinkedIn pour échanger sur vos projets TI](https://linkedin.com)
+*Haudoratech : solutions informatiques sur mesure pour les entreprises. Applications web et mobiles, automatisation, intégration d'IA.*
